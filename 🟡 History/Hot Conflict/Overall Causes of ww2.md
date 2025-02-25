@@ -1,4 +1,4 @@
-q[[🟡 History]] #history 
+[[🟡 History]] #history 
 # Causes and effects of WW2
 
 ## Political 

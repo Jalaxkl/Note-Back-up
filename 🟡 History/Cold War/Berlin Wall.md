@@ -12,15 +12,28 @@ https://www.youtube.com/watch?v=1uapVCH6hjU
 - Takes this up with Kennedy after his election in 1960
     
 
-# Causes 
+# Berlin Wall 
 
-## Long 
+## Short Term Causes/ Effects 
 
-## Short 
-
-
-# Impact of the Crisis 
+- People died trying to escape the east and go to the west 
+	- Standards of living was dropping 
 
 
-# Significance of the Crisis 
+- Brain drain was stopped (also a long term cause)
+
+- Tensions between US and USSR were reduced 
+
+- Failed to have US troops Withdrawn 
+
+## Long Term Effects 
+
+- Push for german unity 
+	- Form a confederation 
+
+- Social Division of Germany 
+- Split of the german race 
+
+- Berlin no longer contested over 
+
 
