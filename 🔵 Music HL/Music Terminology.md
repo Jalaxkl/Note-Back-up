@@ -29,6 +29,9 @@
 ### Polyphonic 
 *Definition*: At least two equal melodies ie: Round, cannon and fugues are examples
 
+### Herterophonic 
+*Definition*: Same thing as Monophonic but with the addition of ornamentation of the melodies 
+
 
 ---
 ## Melody 
