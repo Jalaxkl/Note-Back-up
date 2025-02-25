@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"f32ccca3377349fa","type":"text","text":"\nMechanics:\n\n- Map movement:\n\t- Dashing (only 1)\n\t- Climbing\n\t- Up, down,\n\t- Jump\n\t- Running\n- Lots of Obstacles \n- Gaining hearts and green Gems\n- No 'game over' infinte lives","x":-125,"y":-40,"width":325,"height":300},
+		{"id":"846a9d7d458e1dc3","type":"text","text":"Dynamics:\n\n- Constant repeatability \n\t- (Infinte tries)\n- Learning from failure\n- Positive re-enforcement ","x":300,"y":-40,"width":320,"height":300},
+		{"id":"0a1d65bdebe41ff5","type":"text","text":"Aesthetics \n\n- The game is about challenge \n- Perseverance \n- The next step is unknown..","x":700,"y":-40,"width":320,"height":300},
+		{"id":"180109c632b4e746","type":"text","text":"Celeste","x":-125,"y":-140,"width":250,"height":60},
+		{"id":"c6958d42a0a80219","type":"text","text":"\nMechanics:\n\n- Interaction with objects\n- Rules change \n- Limited passport scans \n\t- Limited time frame \n- Citations \n\t- Penalties \n- Approve and deny \n- Cross checking \n- Time \n- Newspapers ","x":-125,"y":460,"width":325,"height":300},
+		{"id":"8528d842d2117987","type":"text","text":"Dynamics:\n\n- Money managment \n- Moral Compass ","x":300,"y":460,"width":320,"height":300},
+		{"id":"b280239d6a931302","type":"text","text":"Aesthetics:\n\n- Becoming more like a detective \n- Narrative (there is a story)\n- ","x":700,"y":460,"width":320,"height":300},
+		{"id":"fddb362cbf7192a3","type":"text","text":"Papers please","x":-125,"y":360,"width":250,"height":60},
+		{"id":"5876144c59b84321","type":"text","text":"\nMechanics:\n\n- Search feature\n- Adding tags in videos\n- Playing videos \n- Read texts on the desktop\n- Video game?","x":-125,"y":940,"width":325,"height":300},
+		{"id":"316be080b171fd89","type":"text","text":"Dynamics:\n\n- Learn from the videos \n- Computer emulations","x":300,"y":940,"width":320,"height":300},
+		{"id":"f66fb4fac2cc154f","type":"text","text":"Aesthetics:\n\n- fantasty \n\t- Dramatic thril seeking\n- ","x":700,"y":940,"width":320,"height":300},
+		{"id":"0abe977e46987c50","type":"text","text":"Her story","x":-125,"y":840,"width":250,"height":60},
+		{"id":"6f8a66c351a8ad54","type":"text","text":"\nMechanics:\n\n- Rolling \n- Basic 2d movment\n- Interacting with your storage \n- text interaction\n- Shop prices","x":-125,"y":1460,"width":325,"height":300},
+		{"id":"20479c92df8a0a0a","type":"text","text":"Aesthetics:\n\n- Submission game \n\t- Working for the game\n- ","x":700,"y":1460,"width":320,"height":300},
+		{"id":"f3292b1405462646","type":"text","text":"Moon Lighter","x":-125,"y":1360,"width":250,"height":60},
+		{"id":"9da698942316a984","type":"text","text":"Dynamics:\n\n- Avoiding obstacles \n\t- Dugeon crawling\n- Storage managment\n- Shop managment\n- Upgraded weapons ","x":300,"y":1460,"width":320,"height":300},
+		{"id":"a6026a17122a7de5","type":"text","text":"\nMechanics:\n\n- Jump \n- Climbing \n- Perspective changing \n- Menu interaction \n- Interacting with map \n- Inventory (no managment)\n- Instant respawn","x":-125,"y":1980,"width":325,"height":300},
+		{"id":"e61b5987eabb470c","type":"text","text":"Aesthetics:\n\n- Discovery\n- Challange","x":700,"y":1980,"width":320,"height":300},
+		{"id":"de51d8d6c9dd19dc","type":"text","text":"FEZ","x":-125,"y":1880,"width":250,"height":60},
+		{"id":"7e041a4e66523864","type":"text","text":"Dynamics:\n\n- Constant repeatability\n\t- Infinat respawns \n- Visual problem solving \n- ","x":300,"y":1980,"width":320,"height":300},
+		{"id":"f7f6c69c6b31843c","type":"text","text":"\nMechanics:\n\n- Basic Walking functions \n- Radio frequency reader\n- ","x":-125,"y":2460,"width":325,"height":300},
+		{"id":"45d44372564a8ba6","type":"text","text":"Aesthetics:\n\n- Discovery \n- Narrative ","x":700,"y":2460,"width":320,"height":300},
+		{"id":"4744823815edf37b","type":"text","text":"OUTERWILDS","x":-125,"y":2360,"width":250,"height":60},
+		{"id":"1efc43f7f79493c5","type":"text","text":"Dynamics:\n\n- Everything you do doesn't matter, your effect in the soloar system is minimal\n- How you spend your time becomes super important (you feel rushed but not really)\n- Feel a connection with this sepcies that is long lost \n- You can go ANYWHERE, if you are creative enough you are your own limitation in terms of movment and how to solve things \n- ","x":300,"y":2460,"width":320,"height":580}
+	],
+	"edges":[
+		{"id":"0260b6821bf121eb","fromNode":"f32ccca3377349fa","fromSide":"right","toNode":"846a9d7d458e1dc3","toSide":"left"},
+		{"id":"a6084d82d3bb0cf4","fromNode":"846a9d7d458e1dc3","fromSide":"right","toNode":"0a1d65bdebe41ff5","toSide":"left"},
+		{"id":"db59a0062050e5de","fromNode":"c6958d42a0a80219","fromSide":"right","toNode":"8528d842d2117987","toSide":"left"},
+		{"id":"44a41b4ef971732b","fromNode":"8528d842d2117987","fromSide":"right","toNode":"b280239d6a931302","toSide":"left"},
+		{"id":"55c986448e83f3e7","fromNode":"5876144c59b84321","fromSide":"right","toNode":"316be080b171fd89","toSide":"left"},
+		{"id":"d7cb8d9158cdcc55","fromNode":"316be080b171fd89","fromSide":"right","toNode":"f66fb4fac2cc154f","toSide":"left"},
+		{"id":"afd61d62223d149b","fromNode":"6f8a66c351a8ad54","fromSide":"right","toNode":"9da698942316a984","toSide":"left"},
+		{"id":"4db4e8e3ec97249f","fromNode":"9da698942316a984","fromSide":"right","toNode":"20479c92df8a0a0a","toSide":"left"},
+		{"id":"d75ca8dd0f830e95","fromNode":"a6026a17122a7de5","fromSide":"right","toNode":"7e041a4e66523864","toSide":"left"},
+		{"id":"dd94a76dabccbb49","fromNode":"7e041a4e66523864","fromSide":"right","toNode":"e61b5987eabb470c","toSide":"left"}
+	]
+}
