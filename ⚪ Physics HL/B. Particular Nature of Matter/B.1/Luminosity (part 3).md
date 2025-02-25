@@ -8,8 +8,6 @@
 *Equation*: 
 
 
-
-
 # Stefan- Boltzmann Law
 
 - The total power P radiated by a perfect black body depends on two factors 

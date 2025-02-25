@@ -1,4 +1,5 @@
-			# Overview:
+
+# Overview:
 [[⚪ Physics HL]] #physics 
 
 **Learning objectives:**
@@ -29,13 +30,15 @@ Students will be able to:
 ## Centripetal Force 
 *Definition*: The Net force on the object 
 *Simple words*: Always points in the center 
-Units: N
+Units: N$$
+Fc=\frac{m*v^2}{r}
+$$
 
 ## Tangential Velocity 
 *Definition*: The distance the object moves around the circle over change in time 
 *Units*: ms^-1
 *Equation*: $$
-Vt = \frac{d}{t}= \frac{2πr}{T}= 2πr*f
+Vt = \frac{d}{t}= \frac{2πr}{t}= 2πr*f
 $$
 
 

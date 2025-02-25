@@ -5,7 +5,7 @@
 ## Coulomb's Law 
 *Definitions*: Gives the magnitude of and direction of the electrostatic force between two charged objects
 *Equation*: $$
-F= K*\frac{q1+q2}{r^2}
+F= K*\frac{q1*q2}{r^2}
 $$
 F= Force of attraction 
 K= Coulomb Constant 

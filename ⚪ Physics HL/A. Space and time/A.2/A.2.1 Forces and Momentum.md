@@ -58,7 +58,7 @@ Ff = Force Friction
 ---
 ## Kinetic Friction  
 *Definition*: The friction an object experience when the object is in motion 
-*Simple words*: 
+*Simple words*: Friction of a moving object 
 *Units*: N
 *Equation*: $$
 Ff = μ*Fn
@@ -94,7 +94,7 @@ Ff = Force Friction
 *Simple words*: Viscous Drag
 *Units*: N (friction)
 *Equation*: $$ 
-Fd = 6*pi*η*r*v
+Fd = 6*\pi*η*r*v
 $$
 r = radius of the sphere 
 v - velocity the sphere is traveling 

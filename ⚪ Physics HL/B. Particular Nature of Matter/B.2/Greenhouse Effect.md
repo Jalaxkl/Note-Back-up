@@ -41,7 +41,7 @@ A = Surface area of the body (m^2)
 T = Absolute temperature of the body (K)
 
 
-## Albedo (a)
+## Albedo (a) = Reflection
 *Definition*: The proportion of light reflected by a given surface. 
 *Simple words*: Opposite of Emissivity- How much an object emits
 *Units*: Unitless (Percentage value)
@@ -56,7 +56,7 @@ $$
 
 ### Application: Earth 
 - Earth's albedo is generally take to be 0.3 (emissivity of 0.7) 
-	- 30% of the sun rays the reach the ground is reflected. 
+	- 30% of the sun rays that reach the ground is reflected. 
 
 
 --- 
@@ -69,7 +69,7 @@ $$
 I= \frac{L}{4*π*D^2}
 $$
 
-- I = Intensity 
+- I = Intensity (or b on the data booklet)
 - D= Distance from the sun 
 - L = luminosity of an object 
 

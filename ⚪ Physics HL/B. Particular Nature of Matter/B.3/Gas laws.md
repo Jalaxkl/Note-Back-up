@@ -136,7 +136,7 @@ $$
 #### A real gas can act as an ideal gas when...
 - The gas pressure is low 
 - Gas density is low 
-- Temperature is sufficiently higher than the boiling point of the substance 
+- Temperature is **sufficiently** higher than the boiling point of the substance 
 
 This is because:
 - Molecules are closer together 
@@ -166,7 +166,7 @@ T= Temperature
 
 ## RMS speed (Root Mean Square)
 *Definition*: speed of the particles in a gas by finding what speed the *majority* of particles went at. 
-*Simple words*: speed that majority of molecules went
+*Simple words*: speed that majority of molecules went - average kinetic energy of the gas
 *Units*: 
 *Measured with:* 
 *Equation*: $$
