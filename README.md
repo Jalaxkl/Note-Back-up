@@ -3,5 +3,5 @@ A cloud save for my Obsidian Notes
 
 Class Notes 
 
-Updated **May 4th 2024**
+Updated **Feb 25 2025**
 
